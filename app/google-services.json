@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505267843268",
+    "project_id": "fusiongreenz-48a09",
+    "storage_bucket": "fusiongreenz-48a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505267843268:android:2387f81e353bb3f6041991",
+        "android_client_info": {
+          "package_name": "com.ajumie.fusiongreenz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA8_0c1aiHkPUJE7qEBwLE3qu3sN4vVoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
